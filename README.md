@@ -1,3 +1,7 @@
 <h1> YEMEK SAYFASI TASARLAMA </h1) <br>
-<h3>Çikolata Küpü Tarifi</h3)
-![Çikolata küpü tarifi](https://user-images.githubusercontent.com/115412210/197420188-190c4ba7-129d-4577-857b-491a67b95bab.png)
+<h3>Çikolata Küpü Tarifi</h3) 
+<br>
+<br>
+<br>
+<br>
+![image1](https://user-images.githubusercontent.com/115412210/197420689-851ebeb3-06cc-4f97-92d4-a01a28fec82c.png)
